@@ -1,0 +1,5 @@
+astropy
+matplotlib
+cartopy
+spiceypy
+numpy
